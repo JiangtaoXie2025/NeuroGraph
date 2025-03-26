@@ -16,7 +16,7 @@ NGAN builds dynamic spatiotemporal representations of neural activity by integra
 - Meta-learning and domain adaptation
 - Applications in neuroscience, BCI, and clinical diagnostics
 
-## 📁 Project Structure
+## 📁 Project Structure     
 
 ├─ README.md  
 ├─ requirements.txt  
