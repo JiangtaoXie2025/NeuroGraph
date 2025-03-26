@@ -1,0 +1,27 @@
+# Basic numerical and scientific computing
+numpy~=1.21.0
+scipy~=1.7.0
+pandas~=1.3.0
+
+# Deep learning framework (PyTorch example)
+torch~=1.10.0
+torchvision~=0.11.0   # For image-related functionalities if needed
+
+# Graph Neural Network library (DGL)
+dgl~=0.8.2
+
+# Machine learning / evaluation utilities
+scikit-learn~=0.24.2
+
+# Visualization
+matplotlib~=3.4.2
+
+# Command-line progress bars, etc.
+tqdm~=4.62.0
+
+# (Optional) EEG data processing library:
+# mne~=1.1.0
+
+# (Optional) fMRI data processing libraries:
+# nibabel~=3.2.2
+# nilearn~=0.9.2
